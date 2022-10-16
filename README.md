@@ -16,6 +16,7 @@
 * [Safespaces](https://github.com/letoram/safespaces) - 3D/VR Desktop Environment
 * [Senseye](https://github.com/letoram/senseye) - Toolsuite for visual reverse engineering
 * [Pipeworld](https://github.com/letoram/pipeworld) - Dataflow Programming and ZUI tiling Desktop Environment
+* [Cat9](https://github.com/letoram/cat9) - Terminal liberated CLI shell
 
 ### Applications/Deprecated
 * [Prio](https://github.com/letoram/prio) - Plan9 Rio like WM
