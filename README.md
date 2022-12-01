@@ -1,4 +1,6 @@
 ## Arcan
+* [Issues](https://github.com/letoram/arcan-issues) - Shared repository for all subproject issue communications
+
 ### Components
 * [Engine](https://github.com/letoram/arcan) [web/blog](https://arcan-fe.com) - Main Repository for the core engine, related tools and so on.
 * [Devices](https://github.com/letoram/arcan-devices) - Extended device drivers
@@ -8,8 +10,8 @@
 
 ### Clients
 * [Xarcan](https://github.com/letoram/xarcan) - Xserver as an Arcan Client
-* [Nvim](https://github.com/letoram/nvim-arcan) - NeoVim Frontend
 * [QEmu](https://github.com/letoram/qemu) - QEmu UI Driver
+* [Kakoune](https://github.com/cipharius/kakoune) - Kakoune Frontend
 
 ### Applications
 * [Durden](https://github.com/letoram/durden) [web](https://durden.arcan-fe.com) - Reference/Main Desktop Environment
