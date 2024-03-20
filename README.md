@@ -1,5 +1,8 @@
 ## Arcan
-* [Issues](https://github.com/letoram/arcan-issues) - Shared repository for all subproject issue communications
+
+The project has moved away from GitHub. Repositories are periodically synched here for the time being, but will eventually stop. For news and updates, https://arcan-fe.com remains our main site.
+
+For code, tickets, and so on, see https://fossil.arcan-fe.com
 
 ### Components
 * [Engine](https://github.com/letoram/arcan) [web/blog](https://arcan-fe.com) - Main Repository for the core engine, related tools and so on.
